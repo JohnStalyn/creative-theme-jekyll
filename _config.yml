@@ -1,11 +1,15 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Mi Blog
+email: stalinguamingag@gmail.com
+description:  La verdadera creatividad surge siempre de la escasez
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+avatar : https://avatars1.githubusercontent.com/u/69652812?s=460&u=742802dcf1f3501b349fd7fcf46fd3bb113c80ff&v=4
+  
+  facebook : Stalyn  John
+  
+twitter_usernam:
 github_username:
 
 # Build settings
